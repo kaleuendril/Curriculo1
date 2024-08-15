@@ -14,8 +14,8 @@ tenho muito conhecimneto na área de informatica
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="height="/>
 </div> 
 
-# Contato
+## Contato
 <div>
    <a href-"https://www.instagram.com/its.kaleuzn/" >
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="400" height="/>
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
 </div>
