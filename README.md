@@ -5,7 +5,7 @@
 <img src="https://camo.githubusercontent.com/cce5c83b4119450729c423acc010268d8d6094197791096178e312f77ff1967f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b616c6575656e6472696c267468656d653d64617263756c612673686f775f69636f6e733d7472756526686964655f626f726465723d66616c7365266c61796f75743d636f6d70616374" width="400" height="300" />
 
 # Sobre mim
-Atualmente cursando web programação adquerindo conhecimento ( java script , Java , worldpress , figma ).
+Atualmente cursando web programação adquirindo conhecimento ( java script , Java , worldpress , figma ).
 tenho muito conhecimneto na área de informatica 
 
 # Skiils 
@@ -16,6 +16,6 @@ tenho muito conhecimneto na área de informatica
 
 # Contato
 <div>
-<a href-"https://www.instagram.com/its.kaleuzn/" >
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="400" height="/>
+   <a href-"https://www.instagram.com/its.kaleuzn/" >
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="400" height="/>
 </div>
