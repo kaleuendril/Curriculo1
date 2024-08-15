@@ -16,6 +16,6 @@ tenho muito conhecimneto na área de informatica
 
 # Contato
 <div>
-<a href-"instagram.com/br.its.kaleuzn" >
+<a href-"https://www.instagram.com/its.kaleuzn/" >
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="400" height="/>
 </div>
