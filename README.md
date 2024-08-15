@@ -9,9 +9,10 @@ Atualmente cursando web programação adquerindo conhecimento ( java script , Ja
 tenho muito conhecimneto na área de informatica 
 
 # Skiils 
-<div>
+<div> 
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="height="/>
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="height="/>
+</div> 
 
 # Contato
 <div>
