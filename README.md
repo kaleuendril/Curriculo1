@@ -22,3 +22,4 @@ tenho muito conhecimneto na área de informatica
       </a>
       <a href="https://wa.me/5540985035637?text
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="400" height=" />
+      </div>
