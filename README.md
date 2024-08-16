@@ -14,12 +14,11 @@ tenho muito conhecimneto na área de informatica
 
 # contato
 <div>
-   <a href-"https://www.instagram.com/its.kaleuzn/" >
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      </a>
-      <a href="mailito:endrilkaka@gmail.com" >
-         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-            
-      <a href="https://wa.me/5540985035637?text
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="400" height=" />
-      </div>
+<a href="https://www.instagram.com/its.kaleuzn/" >
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
+<a href="mailto:endrilkaka@gmail.com.br" >
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://wa.me/5549985035637?text=Ol%C3%A1" >
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+</div>
