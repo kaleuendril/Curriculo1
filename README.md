@@ -11,7 +11,6 @@ tenho muito conhecimneto na área de informatica
 # Skiils 
 <div> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="400" height=" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="400" height=" />
 </div>
 
 
