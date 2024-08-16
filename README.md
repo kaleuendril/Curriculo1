@@ -8,7 +8,7 @@
 Atualmente cursando web programação adquirindo conhecimento ( java script , Java , worldpress , figma ).
 tenho muito conhecimneto na área de informatica 
 
-# Skiils 
+# Skiils
 
 
 
